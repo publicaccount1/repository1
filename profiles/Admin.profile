@@ -7,7 +7,7 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>Force_com</application>
-        <default>true</default>
+        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
