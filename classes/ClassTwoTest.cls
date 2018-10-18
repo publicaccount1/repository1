@@ -1,7 +1,7 @@
 @isTest
 private class ClassTwoTest
 {
-    // comment
+    // comment 2
     static testMethod void myUnitTest() 
     {
         ClassTwo controller = new ClassTwo();
