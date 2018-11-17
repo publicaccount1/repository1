@@ -12,4 +12,9 @@ public with sharing class ClassTwo
         //add line 7
     }
     // add a line #8
+    // extra line
+    
+    private void persist(){
+        // do something
+    }
 }
