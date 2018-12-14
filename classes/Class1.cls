@@ -1,3 +1,3 @@
 public class Class1 {
-	// hello world 1
+	// hello world 2
 }
