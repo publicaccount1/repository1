@@ -6,7 +6,7 @@ public with sharing class ClassTwo
     //
 	public ClassTwo()
 	{
-	    // add 1 line @ 5
+	    // add 1 line @ 8
 		System.debug('ClassTwo');
 		//add line 7
 	}
