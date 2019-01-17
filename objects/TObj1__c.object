@@ -59,7 +59,7 @@
         <externalId>false</externalId>
         <label>Field1</label>
         <length>128</length>
-        <required>false</required>
+        <required>true</required>
         <trackTrending>true</trackTrending>
         <type>Text</type>
         <unique>false</unique>
