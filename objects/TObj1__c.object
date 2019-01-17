@@ -60,7 +60,7 @@
         <label>Field1</label>
         <length>128</length>
         <required>false</required>
-        <trackTrending>false</trackTrending>
+        <trackTrending>true</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
