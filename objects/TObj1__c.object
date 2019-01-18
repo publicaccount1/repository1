@@ -58,9 +58,15 @@
         <description>single quote &apos;</description>
         <externalId>false</externalId>
         <label>Field1</label>
+<<<<<<< HEAD
         <length>122</length>
         <required>true</required>
         <trackTrending>true</trackTrending>
+=======
+        <length>128</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+>>>>>>> branch 'newbranch3' of https://github.com/publicaccount1/repository1.git
         <type>Text</type>
         <unique>false</unique>
     </fields>
