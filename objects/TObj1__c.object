@@ -58,7 +58,7 @@
         <description>single quote &apos;</description>
         <externalId>false</externalId>
         <label>Field1</label>
-        <length>123</length>
+        <length>122</length>
         <required>true</required>
         <trackTrending>true</trackTrending>
         <type>Text</type>
