@@ -3,5 +3,5 @@
     <fullName>Rule1</fullName>
     <active>true</active>
     <errorConditionFormula>Name = &apos;test&apos;</errorConditionFormula>
-    <errorMessage>not test</errorMessage>
+    <errorMessage>not tested - false</errorMessage>
 </ValidationRule>
