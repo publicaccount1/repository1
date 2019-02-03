@@ -11,7 +11,7 @@
         </values>
         <values>
             <fullName>New New York</fullName>
-            <default>false</default>
+            <default>true</default>
         </values>
         <values>
             <fullName>Rome</fullName>
