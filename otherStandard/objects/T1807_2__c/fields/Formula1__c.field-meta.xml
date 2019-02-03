@@ -4,7 +4,7 @@
     <description>updated
     @newline
     &apos;quotes&apos;</description>
-    <externalId>false</externalId>
+    <externalId>true</externalId>
     <formula>2 &gt; 0</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
     <label>Formula1</label>

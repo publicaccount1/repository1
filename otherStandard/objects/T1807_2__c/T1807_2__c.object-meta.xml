@@ -57,7 +57,7 @@
         <label>T1807_2 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>T1807_2</pluralLabel>
+    <pluralLabel>T1807_2s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
