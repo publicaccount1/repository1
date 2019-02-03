@@ -5,8 +5,4 @@
         <externalId>false</externalId>
         <label>LIFX Token</label>
     </fields>
-    <customSettingsType>Hierarchy</customSettingsType>
-    <enableFeeds>false</enableFeeds>
-    <label>Dreamhouse</label>
-    <visibility>Protected</visibility>
 </CustomObject>
