@@ -1,14 +1,15 @@
-public with sharing class ClassTwo 
+public with sharing class classTwo 
 {
+    Integer i = 0;
     {
         System.debug('ClassTwo');
     }
     //
-	public ClassTwo()
-	{
-	    // add 1 line @ 5
-		System.debug('ClassTwo');
-		//add line 7
-	}
-	// add a line #8
+    public classTwo()
+    {
+        // add 1 line @ 5
+        System.debug('ClassThree');
+        //add line 7
+    }
+    // add a line #8
 }
