@@ -11,7 +11,7 @@
                 <field>Name</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Add</behavior>
+                <behavior>Edit</behavior>
                 <field>Field1__c</field>
             </layoutItems>
         </layoutColumns>
@@ -36,7 +36,7 @@
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
-                <behavior>Read</behavior>
+                <behavior>Readonly</behavior>
                 <field>LastModifiedById</field>
             </layoutItems>
         </layoutColumns>
@@ -45,7 +45,7 @@
     <layoutSections>
         <customLabel>false</customLabel>
         <detailHeading>false</detailHeading>
-        <editHeading>false</editHeading>
+        <editHeading>true</editHeading>
         <layoutColumns/>
         <layoutColumns/>
         <layoutColumns/>
