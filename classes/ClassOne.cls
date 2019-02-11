@@ -4,7 +4,7 @@ public with sharing class classOne
     {
         System.debug('ClassOne');
         // updated specially for master branch
-	// upd once again
+	// upd once again 2
     }
     
     public void myMethod()
