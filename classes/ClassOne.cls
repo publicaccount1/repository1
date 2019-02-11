@@ -3,9 +3,7 @@ public with sharing class classOne
     public classOne()
     {
         System.debug('ClassOne');
-        //This method is add.
-        //This method is add.
-        //This method is add 1.
+         //Updated
     }
     
     public void myMethod()
