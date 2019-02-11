@@ -3,9 +3,7 @@ public with sharing class classOne
     public classOne()
     {
         System.debug('ClassOne');
-        //This method is add.
-        //This method is add.
-        //This method is add 1.
+        // updated specially for master branch
     }
     
     public void myMethod()
